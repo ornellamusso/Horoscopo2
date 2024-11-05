@@ -2,4 +2,18 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="favorite">#E91E63</color>
+    <color name="tint_aries">#673AB7</color>
+    <color name="tint_taurus">#E91E63</color>
+    <color name="tint_gemini">#8BC34A</color>
+    <color name="tint_cancer">#FF9800</color>
+    <color name="tint_leo">#FFEB3B</color>
+    <color name="tint_virgo">#E91E63</color>
+    <color name="tint_libra">#673AB7</color>
+    <color name="tint_scorpio">#E91E63</color>
+    <color name="tint_sagittarius">#673AB7</color>
+    <color name="tint_capricorn">#E91E63</color>
+    <color name="tint_aquarius">#673AB7</color>
+    <color name="tint_pisces">#E91E63</color>
 </resources>
